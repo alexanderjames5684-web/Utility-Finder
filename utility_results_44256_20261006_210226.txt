@@ -1,0 +1,23 @@
+========================================================================
+  UTILITY FINDER — Search Results
+  Generated : 2026-10-06 21:01
+  ZIP Code  : 44256
+  Region    : Ohio — Cleveland & Northeast
+  Utilities : Electricity + Natural Gas + Water
+  Usage     : 1000 kWh electricity | 90 therms natural gas | 2200 gal water
+========================================================================
+
+  PROVIDER                            ELECTRICI/mo  NATURAL G/mo     WATER/mo    TOTAL/mo  PHONE
+------------------------------------------------------------------------
+  FirstEnergy / Ohio Edison           $   131.20  $    97.20  $    11.44  $   239.84  1-800-633-4766
+  Cleveland Water                            N/A         N/A  $    10.89  $    10.89  216-664-3060
+  Dominion Energy Ohio (gas)                 N/A  $    95.40         N/A  $    95.40  1-800-362-7557
+------------------------------------------------------------------------
+
+  CHEAPEST BY UTILITY:
+  ⚡ Electricity    -> FirstEnergy / Ohio Edison  ($131.20/mo)  1-800-633-4766
+  🔥 Natural Gas    -> Dominion Energy Ohio (gas)  ($95.40/mo)  1-800-362-7557
+  💧 Water          -> Cleveland Water  ($10.89/mo)  216-664-3060
+
+  Rates are estimates. Confirm directly with the provider.
+========================================================================
